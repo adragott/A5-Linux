@@ -274,7 +274,7 @@ make ARCH=arm CROSS_COMPILE=${CC}
 ```
 
 ## Kernel
-
+fsdafadfasd
 I'm getting most of my information from here: http://www.at91.com/linux4sam/bin/view/Linux4SAM/Sama5d4XplainedMainPage#Build_Kernel_from_sources
 
 Clone the linux-at91 git repo then add the linux4sam repo as a remote git repo. This way we can just pick which version of the kernel we want to use. I'm choosing to use version 4.14 because it's the one I've used before. Eventually I'll update to 4.19.
